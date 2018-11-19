@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\cf54d5de84d82bb558a74f77fc2a11d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f56f72b8dfbfc561b8b2471a0842099a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7b837231b76960c204c0c373b06e29ea\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-places-16.0.0.aar\3ace6c48f117eb45b60eb73cf4748acc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\b69a27709babcf5c00faf717de891e69\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\8d9c5a865dba1b4646ef4c3f3b48f538\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4926fc641cf64f26bd1bfef03be4a237\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\2cd7af13b389f9b51396f560d162b84b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\4f7fca957808c655d86e59f2b8f123e7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ac18d7da7e45acdc3d2a685ce3d24113\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\0b1903b7fd0b638431908be66a2fa66b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\5b9d0e96f01d4a7709df0f718d17c202\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\12f8e476dda7aea78a9d1ac9468aaf91\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\fea01f97e11be1add40b4abc39045c0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\84c437fcf55b5b7bd4ff11e0237242d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\635b1e1965e5e015800de7a043a3b6cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\01817d1195a2c7bc9d132539076c0db0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\d0e1c63e82edc1f4c116dbafc89a4998\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\c96056f5b30cefedc23a4ebee37aece5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\56fdd2674a528bdc15711497c2de294d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\7c310f5d7c5c9ceaf8174d0a789b418a\AndroidManifest.xml:17:1-24:12
+INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\b69a27709babcf5c00faf717de891e69\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\b69a27709babcf5c00faf717de891e69\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:8:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7b837231b76960c204c0c373b06e29ea\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7b837231b76960c204c0c373b06e29ea\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-places-16.0.0.aar\3ace6c48f117eb45b60eb73cf4748acc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-places-16.0.0.aar\3ace6c48f117eb45b60eb73cf4748acc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\b69a27709babcf5c00faf717de891e69\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\b69a27709babcf5c00faf717de891e69\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\8d9c5a865dba1b4646ef4c3f3b48f538\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\8d9c5a865dba1b4646ef4c3f3b48f538\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4926fc641cf64f26bd1bfef03be4a237\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4926fc641cf64f26bd1bfef03be4a237\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\2cd7af13b389f9b51396f560d162b84b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\2cd7af13b389f9b51396f560d162b84b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\4f7fca957808c655d86e59f2b8f123e7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\4f7fca957808c655d86e59f2b8f123e7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ac18d7da7e45acdc3d2a685ce3d24113\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ac18d7da7e45acdc3d2a685ce3d24113\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:14:9-40
+activity#aquasense.locationalarm.MainActivity
+ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:19:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:23:9-25:47
+	android:value
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:25:13-44
+	android:name
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:24:13-58
+meta-data#com.google.android.gms.version
+ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:26:9-28:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ac18d7da7e45acdc3d2a685ce3d24113\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ac18d7da7e45acdc3d2a685ce3d24113\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:28:13-66
+	android:name
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:27:13-58
+activity#aquasense.locationalarm.NewTask
+ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:30:9-45
+	android:name
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:30:19-42
+activity#aquasense.locationalarm.MapsActivity
+ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:31:9-33:59
+	android:label
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:32:13-41
+activity#aquasense.locationalarm.SuggestionsActivity
+ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:34:9-66
+	android:name
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:34:19-54
+service#aquasense.locationalarm.LocationService
+ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:36:9-52
+	android:name
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:36:18-49
+service#aquasense.locationalarm.GeofenceRegistrationService
+ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:37:9-64
+	android:name
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml:37:18-61
+uses-sdk
+INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml
+INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\cf54d5de84d82bb558a74f77fc2a11d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\cf54d5de84d82bb558a74f77fc2a11d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f56f72b8dfbfc561b8b2471a0842099a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\f56f72b8dfbfc561b8b2471a0842099a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7b837231b76960c204c0c373b06e29ea\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7b837231b76960c204c0c373b06e29ea\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-places-16.0.0.aar\3ace6c48f117eb45b60eb73cf4748acc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-places-16.0.0.aar\3ace6c48f117eb45b60eb73cf4748acc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\b69a27709babcf5c00faf717de891e69\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\b69a27709babcf5c00faf717de891e69\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\8d9c5a865dba1b4646ef4c3f3b48f538\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\8d9c5a865dba1b4646ef4c3f3b48f538\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4926fc641cf64f26bd1bfef03be4a237\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4926fc641cf64f26bd1bfef03be4a237\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\2cd7af13b389f9b51396f560d162b84b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\2cd7af13b389f9b51396f560d162b84b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\4f7fca957808c655d86e59f2b8f123e7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\4f7fca957808c655d86e59f2b8f123e7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ac18d7da7e45acdc3d2a685ce3d24113\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ac18d7da7e45acdc3d2a685ce3d24113\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\0b1903b7fd0b638431908be66a2fa66b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\0b1903b7fd0b638431908be66a2fa66b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\5b9d0e96f01d4a7709df0f718d17c202\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\5b9d0e96f01d4a7709df0f718d17c202\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\12f8e476dda7aea78a9d1ac9468aaf91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\12f8e476dda7aea78a9d1ac9468aaf91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\fea01f97e11be1add40b4abc39045c0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\fea01f97e11be1add40b4abc39045c0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\84c437fcf55b5b7bd4ff11e0237242d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\84c437fcf55b5b7bd4ff11e0237242d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\635b1e1965e5e015800de7a043a3b6cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\635b1e1965e5e015800de7a043a3b6cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\01817d1195a2c7bc9d132539076c0db0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\01817d1195a2c7bc9d132539076c0db0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\d0e1c63e82edc1f4c116dbafc89a4998\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\d0e1c63e82edc1f4c116dbafc89a4998\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\c96056f5b30cefedc23a4ebee37aece5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\c96056f5b30cefedc23a4ebee37aece5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\56fdd2674a528bdc15711497c2de294d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\56fdd2674a528bdc15711497c2de294d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\7c310f5d7c5c9ceaf8174d0a789b418a\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\7c310f5d7c5c9ceaf8174d0a789b418a\AndroidManifest.xml:20:5-22:41
+INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml
+INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml
+		ADDED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Noor's\sem7\MAD_exp\LocationAlarm\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\b69a27709babcf5c00faf717de891e69\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\b69a27709babcf5c00faf717de891e69\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\b69a27709babcf5c00faf717de891e69\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\b69a27709babcf5c00faf717de891e69\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\b69a27709babcf5c00faf717de891e69\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4926fc641cf64f26bd1bfef03be4a237\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4926fc641cf64f26bd1bfef03be4a237\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4926fc641cf64f26bd1bfef03be4a237\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\asif\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4926fc641cf64f26bd1bfef03be4a237\AndroidManifest.xml:24:13-79

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Location Alert System</string>
+
+    <string name="api_key">AIzaSyAKs0Z4qxEaPKjBW5U1IqJuKBJQ6mb4Rxg</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
