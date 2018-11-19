@@ -1,1 +1,3 @@
 # LocationAlarm
+-Sqlite
+-Geofence
